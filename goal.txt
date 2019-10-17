@@ -1,0 +1,8 @@
+create a multirotor with the following characteristics:
+	long (?) flight time
+	affordable parts
+	easily replaced frame parts
+	light weight
+	gentle flight characteristics
+get more practice with github
+all frame components should be easy to make at a makerspace

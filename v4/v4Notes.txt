@@ -1,0 +1,7 @@
+make canopy 5mm taller
+make front extend about 10mm further
+include holes for aiofpv mount
+move location of back most brace to avoid colision with stack
+make sure sides will guide a <20mm velcro strap correctly
+(velcro will fit under stack so yay)
+should only need to cut top plate, side plates

@@ -1,0 +1,26 @@
+first cut:	need to use 1/8 ply not 3/32 sheet
+		forgot notch on top plate for the tab on the back plate
+		need top plate to be wider to give battery more room
+		need more room in front of flight controller for the aio vtx
+		had extra slots in middle plate not needed
+		spacing for fastener holes is good but if top plate is widened
+		then they will probably need to be moved
+		be sure to include a holes in the back plate for the battery
+		connector and the 2.4 GHz antenna
+		add slots for battery straps on top plat
+second cut:	jigs had several flaws, the one for cutting the channel for the
+		half lap joint was too narrow and the one for glueing it square
+		had incorrectly fitting tabs
+first flights:	hover test had extreme wobble on default settings, reduced pids
+		by 33%. next hover had wobble but was stable. first park flight
+		wobble was noticeable but flyable. hovered at about 25% throttle
+		and was suprisingly agile. crashed when a propeller dismounted
+		during a throttle punch and broke the arms and center hub. I 
+		think the wobble is prop wash as it seemed to only occur on
+		takeoff and when entering dirty air.
+third cut:	realized that bottom mount battery introduces a weakness for
+		attatching battery unless the velcro slides underneath the stack
+		because the new design relies on glue to attatch the plywood to
+		the booms. combined weight of plywood pieces is a big approx
+		27grams which is unfortunate.
+printed a housing for the camera/vtx. width is 21mm and the mounting holes are at the bottom back of the piece

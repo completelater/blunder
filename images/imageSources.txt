@@ -1,0 +1,3 @@
+motor data: http://www.flybrushless.com/motor/view/63
+stack images: https://blog.dronetrest.com/minicube-f3-flight-stack-guide/
+tx01 pinout: http://img.banggood.com/customers_images/large/2016120715021781-1088368.jpg 
